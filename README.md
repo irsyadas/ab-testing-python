@@ -6,7 +6,7 @@ A fashion retail company is preparing to launch new product to their apparel cat
 
 ## Dataset Description
 
-Our data set consists of 548 observations consists of:
+Our data set consists of 548 observations which includes:
 - OutletID: Unique identifier for store location. Each location is identified by a number. The total number of stores is 137.
 - AgeofOutlets: Age of store in years (1–28). The mean age of a store is 8.5 years.
 - Campaigns: One of three promotions that were tested (1, 2, 3).
